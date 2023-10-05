@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\my projects\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\Ex05.GameLogic\bin\Debug\Ex05.GameLogic.dll
+C:\Users\user\Desktop\my projects\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\Ex05.GameLogic\bin\Debug\Ex05.GameLogic.pdb
+C:\Users\user\Desktop\my projects\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\Ex05.GameLogic\obj\Debug\Ex05.GameLogic.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\my projects\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\Ex05.GameLogic\obj\Debug\Ex05.GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\my projects\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\Ex05.GameLogic\obj\Debug\Ex05.GameLogic.dll
+C:\Users\user\Desktop\my projects\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\Ex05.GameLogic\obj\Debug\Ex05.GameLogic.pdb

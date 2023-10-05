@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\my projects\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\Ex05.GameUI\bin\Debug\Ex05.GameUI.exe
+C:\Users\user\Desktop\my projects\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\Ex05.GameUI\bin\Debug\Ex05.GameUI.pdb
+C:\Users\user\Desktop\my projects\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\Ex05.GameUI\bin\Debug\Ex05.GameLogic.dll
+C:\Users\user\Desktop\my projects\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\Ex05.GameUI\bin\Debug\Ex05.GameLogic.pdb
+C:\Users\user\Desktop\my projects\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\Ex05.GameUI\obj\Debug\Ex05.GameUI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\my projects\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\Ex05.GameUI\obj\Debug\Ex05.GameUI.FormGame.resources
+C:\Users\user\Desktop\my projects\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\Ex05.GameUI\obj\Debug\Ex05.GameUI.Properties.Resources.resources
+C:\Users\user\Desktop\my projects\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\Ex05.GameUI\obj\Debug\Ex05.GameUI.FormSettings.resources
+C:\Users\user\Desktop\my projects\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\Ex05.GameUI\obj\Debug\Ex05.GameUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\my projects\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\Ex05.GameUI\obj\Debug\Ex05.GameUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\my projects\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\Ex05.GameUI\obj\Debug\Ex05.GameUI.csproj.CopyComplete
+C:\Users\user\Desktop\my projects\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\Ex05.GameUI\obj\Debug\Ex05.GameUI.exe
+C:\Users\user\Desktop\my projects\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\B23 Ex05 YairAshkenazi 206395550 ShannyAssa 208723494\Ex05.GameUI\obj\Debug\Ex05.GameUI.pdb

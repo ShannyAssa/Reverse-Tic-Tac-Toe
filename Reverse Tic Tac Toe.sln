@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex05.GameLogic", "Ex05.GameLogic\Ex05.GameLogic.csproj", "{98F95FBE-CCF3-47C2-B72E-EF8FB62A0583}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex05.GameUI", "Ex05.GameUI\Ex05.GameUI.csproj", "{1EA2D6F8-2356-4C70-94D4-53A6AAB9F539}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98F95FBE-CCF3-47C2-B72E-EF8FB62A0583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98F95FBE-CCF3-47C2-B72E-EF8FB62A0583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98F95FBE-CCF3-47C2-B72E-EF8FB62A0583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F95FBE-CCF3-47C2-B72E-EF8FB62A0583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EA2D6F8-2356-4C70-94D4-53A6AAB9F539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA2D6F8-2356-4C70-94D4-53A6AAB9F539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA2D6F8-2356-4C70-94D4-53A6AAB9F539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA2D6F8-2356-4C70-94D4-53A6AAB9F539}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B97BE775-6C90-4484-949A-AB63B67EA604}
+	EndGlobalSection
+EndGlobal
